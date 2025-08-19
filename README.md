@@ -8,7 +8,7 @@ The analysis focuses on answering the following key questions:
 - What strategies can maximize growth from Value and Opportunity segments?
 ### Dataset
 The dataset includes customer demographics, purchase history, transaction details, and product information from [here](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
-###Tools and Technique
+### Tools and Technique
 -  **Python**
    - Data cleaning (remove duplicates, handle missing values)
 -  **SQL**
