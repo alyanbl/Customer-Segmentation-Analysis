@@ -16,6 +16,8 @@ The dataset includes customer demographics, purchase history, transaction detail
    - Analysis using SELECT, GROUP BY, AVG, SUM, CASE
 -  **Presentation Slides (PPT)**
    - Visual storytelling of key findings
+     <img width="1452" height="823" alt="image" src="https://github.com/user-attachments/assets/4c59b697-f103-4897-80fc-8f9608be0966" />
+
 ### Key Insights
 - **Most Customers**: Couple Aged 30+
 - **Top-Selling Products**: Wine is the most purchased by Premium and Value segments
